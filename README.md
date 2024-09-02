@@ -1,9 +1,6 @@
 # Social_Media-App_MERN
 
 
-
-# MERN Social Media App
-
 This is a social media app built using the MERN stack. It includes authentication, posts, likes, comments, and follows.
 
 ## Screenshots
